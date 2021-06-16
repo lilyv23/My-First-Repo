@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../01_Containers_Structure"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../03_Style-Our-Styleguide"
+		},
+		{
+			"path": "../../../04_Add-A-Custom-Font"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "01_Containers_Structure"
+	}
+}
